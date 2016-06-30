@@ -1,0 +1,53 @@
+Item Type
+{
+	"item_type_id":0
+	,"name":""
+}
+
+
+Item
+{
+	"item_id": 0
+	,"item_type_id":0
+	,"status":true
+	,"name":""
+	,"description":""
+	,"cost":""
+	,"sales_price":""
+	,"category":""
+	,"brand":""
+	,"note":""
+	,"created":""
+	,"modified":""
+	,"created_by":""
+	,"modified_by":""
+}
+
+Category
+{
+	"category_id": ""
+	,"name":""
+}
+
+Brand
+{
+	"brand_id": ""
+	,"name":""
+}
+
+Item Transaction
+{
+	"tran_id": ""
+	,"tran_date":""
+	,"user":""
+	,"tran_type_id":1
+	,"item_id":""
+	,"tran_qty":""
+}
+
+Transaction Type
+{
+	"tran_type_id": ""
+	,"date":""
+	,"user":""
+}
